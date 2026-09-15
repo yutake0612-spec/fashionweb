@@ -9,4 +9,4 @@ WCB Fashion Collectionというアパレルブランドを想定した、架空�
 - スクロールに応じたフェードイン表示(Intersection Observer)
 
 ## 公開URL
-(Netlifyで公開後、ここにリンクを追記予定)
+https://melodious-basbousa-a9068c.netlify.app/
