@@ -63,7 +63,7 @@ thumbImages.forEach((thumbImage)=>{
     });
 });
 
-let currentIndex = 1;
+let currentIndex = 0;
 
 setInterval(()=>{
     const index = currentIndex % thumbImages.length; //0~8の範囲に収める
