@@ -72,7 +72,7 @@ setInterval(()=>{
     mainImage.animate({opacity:[0,1]},500);
 
     currentIndex = currentIndex+1;
-},3000);
+},5000);
 
 /*
 スライドメニュー
